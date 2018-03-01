@@ -197,7 +197,6 @@ There was no expected output provided. As such it was not possible for someone t
 
 I've helped companies learn how to adapt their practices to hiring technical testers. By this I mean "testers who can do some development" (in a test solution context) rather than "developers who can test." Feel free to check out some of these articles:
 
-
-http://testerstories.com/2017/10/technical-test-interviews-are-broken/
-http://testerstories.com/2014/12/interview-testers-as-if-you-want-testers/
-http://testerstories.com/2014/06/interview-technical-testers-for-broad-skills/
+* http://testerstories.com/2017/10/technical-test-interviews-are-broken/
+* http://testerstories.com/2014/12/interview-testers-as-if-you-want-testers/
+* http://testerstories.com/2014/06/interview-technical-testers-for-broad-skills/

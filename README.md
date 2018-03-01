@@ -186,17 +186,3 @@ This breaks down as:
     Order ID:        4K27GA00003G
     Executed Shares: 000076
     Execution ID:    00004AQ00002
-
-## Caveat
-
-Note that this exercise does very little to show how a tester should be thinking about these things. This is very much a developer-focused exercise.
-
-From a test and quality assurance perspective, it's important to understand how someone conceptualizes testing, how they would treat data, whether they consider incidentals as part of test data, the amount of tests they would apply to a given situation (too many? too few?), and so on.
-
-There was no expected output provided. As such it was not possible for someone to determine if their implementation worked. This, again, is something that should be provided. When testing applications we generally do have an oracle of what we expect to find in a given situation. If we do not, part of what testers do is ask for one.
-
-I've helped companies learn how to adapt their practices to hiring technical testers. By this I mean "testers who can do some development" (in a test solution context) rather than "developers who can test." Feel free to check out some of these articles:
-
-* http://testerstories.com/2017/10/technical-test-interviews-are-broken/
-* http://testerstories.com/2014/12/interview-testers-as-if-you-want-testers/
-* http://testerstories.com/2014/06/interview-technical-testers-for-broad-skills/
